@@ -107,8 +107,8 @@ p{
     height:450px;
     width:800px;
     background-color: rgba(0, 0, 0, 0.629);
-    background: url('dunebikes.jpg') no-repeat top center; 
-    background-size: cover;
+    /* background: url('dunebikes.jpg') no-repeat top center;  */
+    /* background-size: cover; */
     border-radius: 3em;
 
     position: relative;
@@ -123,8 +123,8 @@ p{
     width:800px;
     background-color: rgba(0, 0, 0, 0.629);
 
-    background: url('bikerskills.jpg') no-repeat top left; 
-    background-size: cover;
+    /* background: url('bikerskills.jpg') no-repeat top left;  */
+    /* background-size: cover; */
     border-radius: 3em;
     position: relative;
     animation: slide-in 2s forwards;
