@@ -106,7 +106,7 @@ p{
 #projectDiv{
     height:450px;
     width:800px;
-    background: url('./static/dunebikes.jpg') no-repeat top center; 
+    background: url('docs/static/dunebikes.jpg') no-repeat top center; 
     background-size: cover;
     border-radius: 3em;
 
@@ -120,7 +120,7 @@ p{
 #skillsDiv{
     height:450px;
     width:800px;
-    background: url('./static/bikerskills.jpg') no-repeat top left; 
+    background: url('docs/static/bikerskills.jpg') no-repeat top left; 
     background-size: cover;
     border-radius: 3em;
     position: relative;
