@@ -1,7 +1,7 @@
 ### Hi there 👋
-⚡ Fun fact: I teach fullstack Web Development with Coding Dojo
-📫 How to reach me: melbcoding@gmail.com
-💬 Ask me about: my creative projects!
+-⚡ Fun fact: I teach fullstack Web Development with Coding Dojo
+-📫 How to reach me: melbcoding@gmail.com
+-💬 Ask me about: my creative projects!
 <!--
 **melbcoding/melbcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
